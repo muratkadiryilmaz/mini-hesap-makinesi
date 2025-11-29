@@ -34,22 +34,22 @@
 
 🌍 English Version
  
-🧮 Mini Calculator (C Language)
+# 🧮 Mini Calculator (C Language)
 
-📅 Date: November 29, 2025
-🔗 GitHub: github.com/muratkadiryilmaz/mini-hesap-makinesi
+📅 *Date:* November 29, 2025
+🔗 *GitHub:* github.com/muratkadiryilmaz/mini-hesap-makinesi
 📄 A simple console-based calculator project written in C.
 
 ---
 
-🎯 Project Overview
+## 🎯 Project Overview
 - Takes two numbers from the user and performs one of four operations: addition, subtraction, multiplication, or division.
 - Program continues running until the user enters "-1".
 - Division by zero is safely handled.
 
 ---
 
-⚙️ How It Works
+## ⚙️ How It Works
 - User enters two numbers. 
 - User selects an operation:
 
