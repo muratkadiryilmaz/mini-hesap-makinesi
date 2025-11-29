@@ -2,7 +2,7 @@
 
 - 📅 **Tarih:** 29.11.2025 
 - 🔗 **GitHub:** [github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi)
-- 🔗 **Linkledn:**https://lnkd.in/e5n-y9BA
+- 🔗 **Linkledn:** https://lnkd.in/e5n-y9BA 
 - 📄 **C dilinde yazılmış basit bir konsol tabanlı hesap makinesi projesi.** 
 
 ---
@@ -39,7 +39,7 @@
 
 - 📅 **Date:** November 29, 2025
 - 🔗 **GitHub:** [github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi)
-- 🔗 **Linkledn:**https://lnkd.in/e5n-y9BA
+- 🔗 **Linkledn:** https://lnkd.in/e5n-y9BA
 - 📄 **A simple console-based calculator project written in C.**
 
 ---
