@@ -36,9 +36,9 @@
  
 # 🧮 Mini Calculator (C Language)
 
-📅 **Date:** November 29, 2025
-🔗 **GitHub:** [https://github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi) 
-📄 **A simple console-based calculator project written in C.**
+- 📅 **Date:** November 29, 2025
+- 🔗 **GitHub:** [https://github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi) 
+- 📄 **A simple console-based calculator project written in C.**
 
 ---
 
