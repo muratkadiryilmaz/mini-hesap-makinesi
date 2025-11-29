@@ -27,12 +27,12 @@
 
 ---
 
-🧩 Kullanılan Teknolojiler
+## 🧩 Kullanılan Teknolojiler
 - C, stdio.h
 
 ---
 
-🌍 English Version
+# 🌍 English Version
  
 # 🧮 Mini Calculator (C Language)
 
