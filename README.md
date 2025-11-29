@@ -1,7 +1,7 @@
 # 🧮 Mini Hesap Makinesi (C Dili)
 
-- 📅 **Tarih:** 29.11.2025  
-- 🔗 **GitHub:** [github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi)  
+📅 **Tarih:** 29.11.2025  
+🔗 **GitHub:** [github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi)  
 🔗 **Linkledn:** https://lnkd.in/e5n-y9BA  
 📄 **C dilinde yazılmış basit bir konsol tabanlı hesap makinesi projesi.**  
 
@@ -37,10 +37,10 @@
  
 # 🧮 Mini Calculator (C Language)
 
-- 📅 **Date:** November 29, 2025
-- 🔗 **GitHub:** [github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi)
-- 🔗 **Linkledn:** https://lnkd.in/e5n-y9BA
-- 📄 **A simple console-based calculator project written in C.**
+📅 **Date:** November 29, 2025  
+🔗 **GitHub:** [github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi)  
+🔗 **Linkledn:** https://lnkd.in/e5n-y9BA  
+📄 **A simple console-based calculator project written in C.**  
 
 ---
 
