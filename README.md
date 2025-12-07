@@ -1,4 +1,4 @@
-# 🧮 Mini Hesap Makinesi (C Dili)
+# 🧮 Mini Hesap Makinesi (C)
 
 📅 **Tarih:** 29.11.2025  
 🔗 **GitHub:** [github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi)  
@@ -35,7 +35,7 @@
 
 # 🌍 English Version
  
-# 🧮 Mini Calculator (C Language)
+# 🧮 Mini Calculator (C)
 
 📅 **Date:** November 29, 2025  
 🔗 **GitHub:** [github.com/muratkadiryilmaz/mini-hesap-makinesi](https://github.com/muratkadiryilmaz/mini-hesap-makinesi)  
